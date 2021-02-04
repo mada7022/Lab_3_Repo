@@ -1,9 +1,5 @@
 # Lab_3_Repo
-Step 7 Change
-
-Corrected the changes made by Matt
-
-Project Team Members:
+Step 7 change
 Matt Davis
 Brian Reagan
 Mandukhai Amarsanaa
