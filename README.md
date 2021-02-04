@@ -1,4 +1,5 @@
-# Lab_3_Repo
+# Lab_3_Repoi
+Project Team Members:
 Step 7 change
 Matt Davis
 Brian Reagan
